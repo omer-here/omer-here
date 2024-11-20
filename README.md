@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Empowering Businesses with AI**
 
-- 🌱 I’m currently learning **Next 14, React 19, Generative AI, Dockers & Modern UI/UX Designing**
+- 🌱 I’m currently learning **Next 15, React 19, Generative AI, Dockers & Modern UI/UX Designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omer-here](https://github.com/omer-here)
 
