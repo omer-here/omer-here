@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omer Afzaal</h1>
-<h3 align="center">A passionate Software Developer from Pakistan</h3>
+<h3 align="center">A Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Empowering Businesses with AI**
 
-- 🌱 I’m currently learning **Next 15, React 19, Generative AI, Dockers & Modern UI/UX Designing**
+- 🌱 I’m Working with **Next JS 16, React 19, Generative AI, Dockers & Modern UI/UX Designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/omer-here](https://github.com/omer-here)
 
