@@ -1,22 +1,122 @@
-<h1 align="center">Hi 👋, I'm Omer Afzaal</h1>
-<h3 align="center">A Software Engineer from Pakistan</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **Empowering Businesses with AI**
+# Omer Afzaal
 
-- 🌱 I’m Working with **Next JS 16, React 19, Generative AI, Dockers & Modern UI/UX Designing**
+**Senior Software Engineer · Backend & AI Systems · Pakistan 🇵🇰**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omer-here](https://github.com/omer-here)
+*Fast-track promoted ×2 in 18 months · Building production AI infrastructure at scale*
 
-- 💬 Ask me about **Programming Concepts, DSA, DBMS, React, Next JS, ML, Cross Platform Development & more!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerafzaal1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omershykh7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omer-here)
 
-- 📫 How to reach me **omeriskills@gmail.com**
+</div>
 
-- ⚡ Fun fact **I usually forgot to Code after a vacation.**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/omerafzaal1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omerafzaal1" height="30" width="40" /></a>
-</p>
+## About
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Backend engineer specializing in distributed systems and LLM-integrated applications. Currently **Senior Software Engineer at [Nayatel](https://nayatel.com)** — Pakistan's leading ISP — where I architect microservices, real-time event pipelines, and AI-powered features serving thousands of concurrent users.
+
+I don't just use AI tools. I build the backend infrastructure that makes AI products work in production: RAG pipelines, agentic runtimes, vector search, streaming APIs, and the observability layer that keeps them reliable.
+
+---
+
+## Featured Projects
+
+### 🧠 [Chronos](https://github.com/omer-here/chronos-mvp) — AI Business Assistant Platform
+Multi-tenant RAG SaaS platform combining a PDF knowledge base (via **pgvector**) with dynamic tool calling for real-time attribute retrieval. Streaming chat interface built on the Vercel AI SDK. Resolved production-grade challenges: edge-runtime PDF parsing failures, AI SDK v4 streaming protocol mismatches, and silent Zod schema crashes in LLM tool execution.
+
+`Next.js` `pgvector` `Gemini Embeddings (004)` `Vercel AI SDK` `TypeScript` `Supabase`
+
+---
+
+### 🦞 [Tiny-OpenClaw](https://github.com/omer-here/tiny-openclaw) — Agentic AI Runtime
+Production-ready agentic framework implementing the **ReAct (Reasoning + Acting)** loop via the Anthropic Claude API. Hot-loadable skills (web browser automation via Playwright, long-term memory, datetime). Fully async I/O with Python's `asyncio`. Migrated memory/session persistence from JSON to **Redis** to enable concurrent multi-user access and horizontal scalability.
+
+`Python` `Claude API` `Redis` `Playwright` `asyncio` `Docker Compose`
+
+---
+
+### ⚡ [Sportz](https://github.com/omer-here/sportz) — Real-Time WebSocket Architecture
+Solved the stateful WebSocket fan-out problem across horizontally scaled Node instances using **Redis Pub/Sub**: mutations publish to a broadcast channel; every instance subscribes and routes to its local connections. Scales to N nodes behind a load balancer with zero dropped broadcasts. Includes heartbeat zombie cleanup, Arcjet rate limiting, Zod validation, and backpressure protection.
+
+`Node.js` `Express` `WebSockets` `Redis Pub/Sub` `PostgreSQL` `Drizzle ORM` `Docker`
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+
+**Databases & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+
+**AI & LLMs**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D4A017?style=flat&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+
+`RAG Pipelines` `Agentic Workflows (ReAct)` `Tool Calling` `pgvector` `MCP` `n8n`
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**DevOps & Observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat&logo=newrelic&logoColor=white)
+
+---
+
+## What I'm Working On
+
+- 🔭 **AI Recommendation Engine** — data-driven content personalization for a live-streaming platform
+- 🛠️ **NayaTV Backend Modernization** — applying separation-of-concerns refactor to a high-traffic OTT service
+- 📖 Deepening knowledge of **LangGraph**, **eval frameworks (RAGAS)**, and **distributed tracing**
+
+---
+
+## Professional Background
+
+```
+Nayatel (Pakistan's leading ISP)     Oct 2024 – Present
+
+  Senior Software Engineer           [Promoted ×2 fast-track]
+  ↳ Nwatch camera monitoring revamp  NestJS · RabbitMQ · Redis · NewRelic
+  ↳ NayaTV backend modernization      Microservices · Separation of Concerns
+
+  Software Engineer
+  ↳ Centralized payment platform      Monolith → Microservices · 3+ apps unified
+  ↳ Internal CRON scheduling service  Replaced unsafe crontab company-wide
+
+  Assistant Software Engineer
+  ↳ NayaTV OTT platform features      40% faster content delivery
+  ↳ Internal operational tooling      Log monitoring · Complaint resolution APIs
+```
+
+---
+
+<div align="center">
+
+*"Ship it. Observe it. Improve it."*
+
+</div>
