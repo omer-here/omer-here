@@ -16,7 +16,7 @@
 
 ## About
 
-Backend engineer specializing in distributed systems and LLM-integrated applications. Currently **Senior Software Engineer at [Nayatel](https://nayatel.com)** — Pakistan's leading ISP — fast-track promoted twice in 18 months, building production backend infrastructure: microservices, real-time event pipelines, and AI-powered features serving thousands of concurrent users.
+Backend engineer specializing in distributed systems and LLM-integrated applications. Currently **Senior Software Engineer at [Nayatel](https://nayatel.com)** — Pakistan's leading ISP — fast-track promoted twice in less than 24 months, building production backend infrastructure: microservices, real-time event pipelines, and AI-powered features serving thousands of concurrent users.
 
 I don't just use AI tools. I build the backend infrastructure that makes AI products work in production: RAG pipelines, agentic runtimes, vector search, streaming APIs, and the observability layer that keeps them reliable.
 
