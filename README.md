@@ -1,14 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:5E35B1,100:8E54E9&height=210&section=header&text=Omer%20Afzaal&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Backend%20and%20AI%20Systems&descAlignY=62&descSize=18&fontAlignY=46" />
+
 <div align="center">
-
-# Omer Afzaal
-
-**Senior Software Engineer · Backend & AI Systems · Pakistan 🇵🇰**
-
-*Fast-track promoted ×2 in 18 months · Building production AI infrastructure at scale*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omerafzaal1)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:omershykh7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/omer-here)
+[![GitHub followers](https://img.shields.io/github/followers/omer-here?style=flat&color=8E54E9&labelColor=1a1a2e&label=followers)](https://github.com/omer-here)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1200&color=8E54E9&center=true&width=520&lines=Building+RAG+pipelines+%26+agentic+AI+runtimes;Distributed+systems+%7C+Microservices+%7C+Real-time;NestJS+%7C+TypeScript+%7C+Python+%7C+Redis+%7C+RabbitMQ;Fast-track+promoted+%C3%972+at+Pakistan%27s+leading+ISP)](https://github.com/omer-here)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About
 
-Backend engineer specializing in distributed systems and LLM-integrated applications. Currently **Senior Software Engineer at [Nayatel](https://nayatel.com)** — Pakistan's leading ISP — where I architect microservices, real-time event pipelines, and AI-powered features serving thousands of concurrent users.
+Backend engineer specializing in distributed systems and LLM-integrated applications. Currently **Senior Software Engineer at [Nayatel](https://nayatel.com)** — Pakistan's leading ISP — fast-track promoted twice in 18 months, building production backend infrastructure: microservices, real-time event pipelines, and AI-powered features serving thousands of concurrent users.
 
 I don't just use AI tools. I build the backend infrastructure that makes AI products work in production: RAG pipelines, agentic runtimes, vector search, streaming APIs, and the observability layer that keeps them reliable.
 
@@ -32,7 +32,7 @@ Multi-tenant RAG SaaS platform combining a PDF knowledge base (via **pgvector**)
 ---
 
 ### 🦞 [Tiny-OpenClaw](https://github.com/omer-here/tiny-openclaw) — Agentic AI Runtime
-Production-ready agentic framework implementing the **ReAct (Reasoning + Acting)** loop via the Anthropic Claude API. Hot-loadable skills (web browser automation via Playwright, long-term memory, datetime). Fully async I/O with Python's `asyncio`. Migrated memory/session persistence from JSON to **Redis** to enable concurrent multi-user access and horizontal scalability.
+Production-ready agentic framework implementing the **ReAct (Reasoning + Acting)** loop via the Anthropic Claude API. Hot-loadable skills: web browser automation via Playwright, long-term memory, datetime. Fully async I/O with Python's `asyncio`. Migrated memory/session persistence from JSON to **Redis** for concurrent multi-user access and horizontal scalability.
 
 `Python` `Claude API` `Redis` `Playwright` `asyncio` `Docker Compose`
 
@@ -66,7 +66,7 @@ Solved the stateful WebSocket fan-out problem across horizontally scaled Node in
 **AI & LLMs**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_API-D4A017?style=flat&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D4A574?style=flat&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
 
 `RAG Pipelines` `Agentic Workflows (ReAct)` `Tool Calling` `pgvector` `MCP` `n8n`
@@ -87,36 +87,43 @@ Solved the stateful WebSocket fan-out problem across horizontally scaled Node in
 
 ---
 
-## What I'm Working On
+## GitHub Stats
 
-- 🔭 **AI Recommendation Engine** — data-driven content personalization for a live-streaming platform
-- 🛠️ **NayaTV Backend Modernization** — applying separation-of-concerns refactor to a high-traffic OTT service
-- 📖 Deepening knowledge of **LangGraph**, **eval frameworks (RAGAS)**, and **distributed tracing**
+<div align="center">
+
+<!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=omer-here&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&icon_color=4776E6&text_color=c9d1d9" /> -->
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-here&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E54E9&text_color=c9d1d9&langs_count=6" />
+
+</div>
 
 ---
 
 ## Professional Background
 
 ```
-Nayatel (Pakistan's leading ISP)     Oct 2024 – Present
+Nayatel — Pakistan's Leading ISP                        Oct 2024 – Present
 
-  Senior Software Engineer           [Promoted ×2 fast-track]
-  ↳ Nwatch camera monitoring revamp  NestJS · RabbitMQ · Redis · NewRelic
-  ↳ NayaTV backend modernization      Microservices · Separation of Concerns
+  Senior Software Engineer           [Fast-Track Promoted ×2]
+  ↳ Nwatch camera monitoring revamp  NestJS · RabbitMQ · Redis · NewRelic · ~65% uptime improvement
+  ↳ NayaTV backend modernization     Microservices · Separation of Concerns · AI Recommendation Engine
 
   Software Engineer
-  ↳ Centralized payment platform      Monolith → Microservices · 3+ apps unified
-  ↳ Internal CRON scheduling service  Replaced unsafe crontab company-wide
+  ↳ Centralized payment platform     Monolith → Microservices · 3+ internal apps unified
+  ↳ CRON scheduling service          Replaced unsafe crontab company-wide · Node.js · PostgreSQL
 
   Assistant Software Engineer
-  ↳ NayaTV OTT platform features      40% faster content delivery
-  ↳ Internal operational tooling      Log monitoring · Complaint resolution APIs
+  ↳ NayaTV OTT platform              40% faster content delivery · Stream load balancing
+  ↳ Internal operational tooling     Log monitoring · Complaint resolution APIs (TTR → minutes)
 ```
 
 ---
 
-<div align="center">
+## What I'm Currently Working On
 
-*"Ship it. Observe it. Improve it."*
+- 🔭 **AI Recommendation Engine** — data-driven content personalization for a live OTT platform
+- 🛠️ **NayaTV Backend Modernization** — separation-of-concerns refactor on a high-traffic streaming service
+- 📖 Going deeper on **LangGraph**, **RAGAS eval frameworks**, and **distributed tracing**
 
-</div>
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4776E6,50:5E35B1,100:8E54E9&height=100" />
